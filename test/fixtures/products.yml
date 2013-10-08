@@ -13,7 +13,7 @@ two:
   price: 9.99
 
 Ruby:
-  title: Ruby
+  title: Programming Ruby 1.9
   description: Ruby book
-  image_url: ruby.jpg
+  image_url: ruby.png
   price: 2
