@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+Ruby:
+  title: Ruby
+  description: Ruby book
+  image_url: ruby.jpg
+  price: 2
